@@ -23,6 +23,6 @@
 
 # 设计
 
-App 设计：[Figma交互设计](https://www.figma.com/proto/Tikd8WD9d4EBwSC2rekRDj/%E5%8C%BB%E4%BC%B4-%E8%AE%BE%E8%AE%A1%E7%A8%BF?page-id=0%3A1&node-id=29-6584&p=f&viewport=-523%2C132%2C0.44&t=Hr6xEpLXucy15k3q-1&scaling=scale-down&content-scaling=fixed)
-项目提交: [Google Drive](https://drive.google.com/drive/folders/1zeNFnQcrXVizbV5I31uMcWiIHVJOv5F3?usp=sharing)
+- App 设计：[Figma交互设计](https://www.figma.com/proto/Tikd8WD9d4EBwSC2rekRDj/%E5%8C%BB%E4%BC%B4-%E8%AE%BE%E8%AE%A1%E7%A8%BF?page-id=0%3A1&node-id=29-6584&p=f&viewport=-523%2C132%2C0.44&t=Hr6xEpLXucy15k3q-1&scaling=scale-down&content-scaling=fixed)
+- 项目提交: [Google Drive](https://drive.google.com/drive/folders/1zeNFnQcrXVizbV5I31uMcWiIHVJOv5F3?usp=sharing)
 
