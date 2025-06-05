@@ -18,5 +18,5 @@
 - [App](https://github.com/GemmaHackthonYiban/app)：项目的核心Android App代码仓库，医伴大白的安卓App，参考了小智 Android App的实现
 
 ## 第三方库
-- [proxy](https://github.com/GemmaHackthonYiban/proxy)：App的API 代理和音频库，使用了小智 Server服务端，在本项目中未做修改
+- [Proxy](https://github.com/GemmaHackthonYiban/proxy)：App的API 代理和音频库，使用了小智 Server服务端，在本项目中未做修改
   
