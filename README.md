@@ -1,6 +1,7 @@
 # 关于“医伴大白”
 
-在看病难、资源紧张的现实中，我们希望用我们的“医伴大白”能成为你健康医疗问题的可靠陪伴者。
+在看病难、资源紧张的现实中，我们希望用我们的“医伴大白”能成为你家庭健康医疗问题的可靠陪伴者。
+医伴大白是一位知识渊博的全科医生，精通现代医学和传统中医药学。他的核心任务是：基于你描述的症状和情况，进行缜密的健康评估和行动指导，同时能清晰告知信息的局限性。
 
 基于 Google 的 Gemma 模型构建核心诊断能力，以“有温度的 AI”理念，让技术不止于智能，更传递守护与陪伴，我们努力打造一个「贴心陪伴、最低成本、最懂本地」的AI健康助手，它提供可靠的图文问诊和医疗机构导航服务，不仅能服务于普通家庭，更是能为偏远、老龄化、或就医困难地区的用户，提供健康分析与专业就医建议。
 - 我们的方案包括App服务，只需要安装我们的医伴大白 App，即可获得媲美家庭医生水平的AI医生提供的健康医疗建议支持。
@@ -13,16 +14,15 @@
 
 # 资源
 
-## 核心开发
+## 核心仓库
 - [Core](https://github.com/GemmaHackthonYiban/core): 项目的核心后台代码仓库，基于MedGemma开发的医伴大白的API和ADMIN系统
 - [App](https://github.com/GemmaHackthonYiban/app)：项目的核心Android App代码仓库，医伴大白的安卓App，参考了小智 Android App的实现
 
-## 第三方库
+## 第三方仓库
 - [Proxy](https://github.com/GemmaHackthonYiban/proxy)：App的API 代理和音频库，使用了小智 Server服务端，在本项目中未做修改
   
 
-# 设计
+# 开发所需的设计参考
 
 - App 设计：[Figma交互设计](https://www.figma.com/proto/Tikd8WD9d4EBwSC2rekRDj/%E5%8C%BB%E4%BC%B4-%E8%AE%BE%E8%AE%A1%E7%A8%BF?page-id=0%3A1&node-id=29-6584&p=f&viewport=-523%2C132%2C0.44&t=Hr6xEpLXucy15k3q-1&scaling=scale-down&content-scaling=fixed)
 - 项目提交: [Google Drive](https://drive.google.com/drive/folders/1zeNFnQcrXVizbV5I31uMcWiIHVJOv5F3?usp=sharing)
-
