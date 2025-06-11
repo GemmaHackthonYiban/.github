@@ -21,7 +21,7 @@
 - [App](https://github.com/GemmaHackthonYiban/app)：项目的核心Android App代码仓库，医伴大白的安卓App，参考了小智 Android App的实现
 
 ## 第三方仓库
--- [CoAgent](https://github.com/GemmaHackthonYiban/coagent)：项目的多Agents框架，为App提供API，参考了https://github.com/xinnan-tech/xiaozhi-esp32-server
+- [CoAgent](https://github.com/GemmaHackthonYiban/coagent)：项目的多Agents框架，为App提供API，参考了https://github.com/xinnan-tech/xiaozhi-esp32-server
   
 
 # 开发所需的设计参考
